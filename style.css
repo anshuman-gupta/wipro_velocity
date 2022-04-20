@@ -1,0 +1,40 @@
+.first{
+    background-color: burlywood;
+    margin: 0.5%;
+    padding-top: 3px;
+    padding-left: 3px;
+    border: 1.5px solid black;
+    margin-bottom: 2%;
+
+}
+#id2{
+    height: 75vh;
+}
+
+#logo{
+    width:5%
+}
+
+body{
+    border: 2px solid black;
+}
+#para{
+    text-align: justify;
+    margin: 5%;
+    font-size: x-large;
+    color:rgb(20, 40, 220);
+}
+.menu_item{
+    float: right;
+    margin: 1.5%;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+}
+
+#one{
+    text-align: justify;
+    font-size: x-large;
+    color:rgb(20, 40, 220);
+}
